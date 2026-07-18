@@ -1,4 +1,4 @@
-# Build Your Own Un-crashable Local AI Chatbot in Google Colab
+# Build Your Own Un-Crashable Local AI Chatbot in Google Colab
 
 A minimal, bulletproof, single-file Python implementation of an interactive local AI chatbot interface hosted on Google Colab. This project leverages the open-source **Qwen2.5-1.5B-Instruct** model and **Gradio** to provide a completely free, self-contained chat interface running entirely on local GPU resources—bypassing API keys, third-party token rates, and common runtime memory crashes.
 
