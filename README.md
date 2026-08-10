@@ -14,7 +14,7 @@ This repository provides a robust architectural alternative by:
 3. **Streaming Token Generation:** Uses asynchronous threading and string iterators to stream responses dynamically in real time.
 
 For an exhaustive, line-by-line engineering breakdown of how this code operates under the hood, read the full technical companion write-up:
-👉 **[Read the Full Technical Blog Post Here](https://evapatel123.hashnode.dev/stop-crashing-your-colab-the-easiest-one-file-python-chatbot-that-actually-works)**
+👉 **[Read the Full Technical Blog Post Here](https://evapatel123.hashnode.dev/how-to-make-the-easiest-one-file-python-chatbot-that-actually-works)**
 
 ---
 
